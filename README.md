@@ -104,6 +104,5 @@ And an example response from the server:
   "card": {
     "rank": "Ace",
     "suit": "Spades"
-```
-  }
 }
+```
