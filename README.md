@@ -44,6 +44,7 @@ BlackJackClient/
     ├── modules.xml
     ├── uiDesigner.xml
     └── workspace.xml
+```
 
 ## Getting Started
 
@@ -93,6 +94,7 @@ Here's an example of a JSON message that might be sent by the client:
   "action": "play",
   "data": "Hit"
 }
+```
 
 And an example response from the server:
 
@@ -102,5 +104,6 @@ And an example response from the server:
   "card": {
     "rank": "Ace",
     "suit": "Spades"
+```
   }
 }
